@@ -48,8 +48,8 @@ The files related to this project are as follows:
 3. game_team_stats.csv - file containing team statistics
 4. game_goalie_stats.csv - file containing goalie statistics
 5. game_skater_stats.csv - file containing skater statistics
-
-In addition there is a Medium blog post that presents the findings of this project.  The post can be found [here](https://www.kaggle.com/datasets/martinellis/nhl-game-data).
+https://medium.com/@kane_62029/predicting-hockey-scores-using-the-power-of-data-science-6d9132f1e9d7
+In addition there is a Medium blog post that presents the findings of this project.  The post can be found [here](https://medium.com/@kane_62029/predicting-hockey-scores-using-the-power-of-data-science-6d9132f1e9d7).
 
 ## How to interact with the project
 
@@ -64,4 +64,4 @@ The detailed results analysis is included in the python notebook along with the 
 
 ## Licensing, Authors, Acknowledgements, etc
 
-The dataset used in this analysis is provided by Martin Ellis and is hosted on the Kaggle website [here](https://medium.com/@kane_62029/diamonds-in-the-rough-or-how-i-learned-to-stop-worrying-and-embrace-data-science-2f1a03383eaf).
+The dataset used in this analysis is provided by Martin Ellis and is hosted on the Kaggle website [here](https://www.kaggle.com/datasets/martinellis/nhl-game-data).
