@@ -48,7 +48,7 @@ The files related to this project are as follows:
 3. game_team_stats.csv - file containing team statistics
 4. game_goalie_stats.csv - file containing goalie statistics
 5. game_skater_stats.csv - file containing skater statistics
-https://medium.com/@kane_62029/predicting-hockey-scores-using-the-power-of-data-science-6d9132f1e9d7
+
 In addition there is a Medium blog post that presents the findings of this project.  The post can be found [here](https://medium.com/@kane_62029/predicting-hockey-scores-using-the-power-of-data-science-6d9132f1e9d7).
 
 ## How to interact with the project
